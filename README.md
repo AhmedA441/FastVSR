@@ -4,5 +4,6 @@ Removes the specefied section from the video, so for a 10minute video if you sel
 
 ![image](https://github.com/user-attachments/assets/3e5019ae-477f-40b8-b5b7-11003e2b7024)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/780adb30-3a3d-4149-a8b7-63c09059a8a1)
+
 
