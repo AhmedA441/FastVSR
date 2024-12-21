@@ -1,0 +1,1 @@
+Removes the specefied section from the video, so for a 10minute video if you select start time of 00:00, and end time of 1:00 the first minute of that video would be deleted and the video would be 9mins long.
